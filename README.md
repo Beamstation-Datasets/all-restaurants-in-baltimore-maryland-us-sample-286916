@@ -1,6 +1,6 @@
 # All Restaurants in Baltimore, Maryland, US
 
-> Free BeamStation sample export with 393 rows and masked direct-contact fields.
+> Free BeamStation sample export with 343 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `286916` |
 | Location | Baltimore |
 | Category | Restaurants |
-| Full dataset size | 3,930 records |
-| Free sample size | 393 records (10.0%) |
-| Last export | 2026-04-14T11:17:33.393455+00:00 |
+| Full dataset size | 3,433 records |
+| Free sample size | 343 records (9.99%) |
+| Last export | 2026-04-21T11:42:33.446261+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-baltimore-maryland-us-sample-286916/releases/download/sample-latest/beamstation_286916_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
