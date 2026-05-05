@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d06c5393-0bfc-4a37-8c2c-8d1640c481d7",
+  "export_job_id": "f5731cd4-09d8-4ecd-a103-9a806e56a367",
   "id_short": 286916,
-  "published_at": "2026-04-28T19:40:48Z",
+  "published_at": "2026-05-05T19:07:51Z",
   "repo_name": "all-restaurants-in-baltimore-maryland-us-sample-286916",
   "sample_asset_name": "beamstation_286916_restaurants-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/286916/beamstation_286916_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_records": 376,
-  "sample_sha256": "e6042230818d62a449ab55ce66db00a0085bc7328cda9429b4dd442588d06ec2",
-  "sample_size_bytes": 1299913,
-  "total_records": 3761
+  "sample_records": 395,
+  "sample_sha256": "9565ad87866d3cd06c08a030407565a702e119df47a348836991a5c7d33b1e7e",
+  "sample_size_bytes": 1437026,
+  "total_records": 3952
 }
